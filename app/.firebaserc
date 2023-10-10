@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "magnetarium-play"
+  },
+  "targets": {
+    "magnetarium-play": {
+      "hosting": {
+        "prd": [
+          "magnetarium"
+        ],
+        "stg": [
+          "magnetarium-play"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

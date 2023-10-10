@@ -1,0 +1,5609 @@
+[
+  {
+    "constel_id": "And",
+    "x": -1.8273,
+    "y": -0.4628,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.8192,
+    "y": -0.5641,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.7886,
+    "y": -0.5261,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.7213,
+    "y": -0.5599,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.648,
+    "y": -0.657,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.8783,
+    "y": -0.4246,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.873,
+    "y": -0.4881,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.8266,
+    "y": -0.4008,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.6939,
+    "y": -0.5285,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.4526,
+    "y": -0.6294,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.5191,
+    "y": -0.5883,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.625,
+    "y": -0.6394,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.4577,
+    "y": -0.5761,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.9876,
+    "y": -0.3354,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.8583,
+    "y": -0.5762,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "And",
+    "x": -1.5027,
+    "y": -0.6021,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ant",
+    "x": 0.2865,
+    "y": 0.4917,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ant",
+    "x": 0.1478,
+    "y": 0.5082,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ant",
+    "x": 0.2293,
+    "y": 0.4274,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ant",
+    "x": 0.3564,
+    "y": 0.4925,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aps",
+    "x": -0.1833,
+    "y": 1.0118,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aps",
+    "x": -0.218,
+    "y": 0.999,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aps",
+    "x": -0.1894,
+    "y": 1.0139,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aps",
+    "x": -0.1149,
+    "y": 1.0155,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.1808,
+    "y": 0.068,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.2535,
+    "y": -0.1027,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.3367,
+    "y": -0.211,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.2785,
+    "y": -0.1476,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.296,
+    "y": -0.1234,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.3141,
+    "y": -0.0892,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.1557,
+    "y": -0.1926,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.3031,
+    "y": -0.1588,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.2361,
+    "y": -0.0434,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.3646,
+    "y": 0.0114,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aql",
+    "x": -1.1353,
+    "y": -0.2092,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.8653,
+    "y": 0.0842,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7641,
+    "y": 0.2932,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7264,
+    "y": 0.0193,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7649,
+    "y": 0.0016,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.6827,
+    "y": 0.0045,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7664,
+    "y": 0.2196,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7467,
+    "y": 0.0003,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7365,
+    "y": -0.0192,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.582,
+    "y": 0.0776,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.8009,
+    "y": 0.1055,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.4507,
+    "y": 0.1321,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7322,
+    "y": 0.3283,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.8127,
+    "y": 0.2859,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.9048,
+    "y": 0.202,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.6475,
+    "y": 0.1927,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.7016,
+    "y": 0.1083,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aqr",
+    "x": -1.6426,
+    "y": 0.4079,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.4759,
+    "y": 0.7863,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.5678,
+    "y": 0.7538,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.5218,
+    "y": 0.8061,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.6551,
+    "y": 0.6728,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.5255,
+    "y": 0.749,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.578,
+    "y": 0.7434,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.7212,
+    "y": 0.6756,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ara",
+    "x": -0.5579,
+    "y": 0.714,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ari",
+    "x": 1.5982,
+    "y": -0.2882,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ari",
+    "x": 1.4023,
+    "y": -0.2734,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ari",
+    "x": 1.6128,
+    "y": -0.2674,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ari",
+    "x": 1.5428,
+    "y": -0.3245,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.9908,
+    "y": -0.3943,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.8455,
+    "y": -0.6235,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 1.0263,
+    "y": -0.4554,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.903,
+    "y": -0.5955,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.9228,
+    "y": -0.5619,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.841,
+    "y": -0.5092,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.7669,
+    "y": -0.61,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Aur",
+    "x": 0.9336,
+    "y": -0.5598,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.3062,
+    "y": -0.2551,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.277,
+    "y": -0.6977,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.2954,
+    "y": -0.2193,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.377,
+    "y": -0.418,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.438,
+    "y": -0.1907,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.4765,
+    "y": -0.5113,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.361,
+    "y": -0.2659,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.4737,
+    "y": -0.4574,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.2855,
+    "y": -0.6246,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.4197,
+    "y": -0.3735,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.3509,
+    "y": -0.5236,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.4102,
+    "y": -0.5509,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Boo",
+    "x": -0.4327,
+    "y": -0.2279,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cae",
+    "x": 0.987,
+    "y": 0.4863,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cae",
+    "x": 0.9733,
+    "y": 0.5701,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cae",
+    "x": 1.023,
+    "y": 0.5083,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cae",
+    "x": 0.9555,
+    "y": 0.6101,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.7784,
+    "y": -0.7214,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": -0.021,
+    "y": -1.0617,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.5672,
+    "y": -0.8731,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.8206,
+    "y": -0.7972,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.4069,
+    "y": -0.9075,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.5359,
+    "y": -0.9304,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cam",
+    "x": 0.6606,
+    "y": -0.8032,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.5111,
+    "y": 0.2336,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.3586,
+    "y": 0.1743,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.4835,
+    "y": 0.3101,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.3557,
+    "y": 0.2525,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.3543,
+    "y": 0.3491,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.5602,
+    "y": 0.2312,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.5821,
+    "y": 0.2238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.3544,
+    "y": 0.3714,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.3569,
+    "y": 0.2053,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.5334,
+    "y": 0.2698,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cap",
+    "x": -1.465,
+    "y": 0.2391,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.1594,
+    "y": 0.8139,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.6313,
+    "y": 0.7082,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.1846,
+    "y": 0.8583,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.3529,
+    "y": 0.7332,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.4545,
+    "y": 0.7118,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.135,
+    "y": 0.8181,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.266,
+    "y": 0.7891,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.3531,
+    "y": 0.792,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.123,
+    "y": 0.9157,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.1957,
+    "y": 0.9121,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Car",
+    "x": 0.1093,
+    "y": 0.8503,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cas",
+    "x": 1.011,
+    "y": -0.8007,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cas",
+    "x": 1.1642,
+    "y": -0.7876,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cas",
+    "x": 1.0444,
+    "y": -0.8065,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cas",
+    "x": 0.8783,
+    "y": -0.8417,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cas",
+    "x": 1.1817,
+    "y": -0.7558,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.1891,
+    "y": 0.5025,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.1208,
+    "y": 0.5481,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.0163,
+    "y": 0.6835,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": 0.0708,
+    "y": 0.7305,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.3257,
+    "y": 0.5394,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.3432,
+    "y": 0.5739,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.3758,
+    "y": 0.5168,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2377,
+    "y": 0.64,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": 0.0358,
+    "y": 0.834,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.1065,
+    "y": 0.661,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.253,
+    "y": 0.6081,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.0832,
+    "y": 0.6612,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2507,
+    "y": 0.8079,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2566,
+    "y": 0.6184,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2431,
+    "y": 0.5678,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.241,
+    "y": 0.578,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.3956,
+    "y": 0.5732,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.3898,
+    "y": 0.4822,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2612,
+    "y": 0.5732,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2815,
+    "y": 0.5612,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2983,
+    "y": 0.498,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.1967,
+    "y": 0.8024,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.055,
+    "y": 0.6773,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.1849,
+    "y": 0.7178,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cen",
+    "x": -0.2076,
+    "y": 0.538,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.8693,
+    "y": -0.8715,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -1.0487,
+    "y": -0.7787,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.7538,
+    "y": -0.8337,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -1.0578,
+    "y": -0.762,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.8028,
+    "y": -0.8199,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.836,
+    "y": -0.8289,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.644,
+    "y": -0.9217,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -0.534,
+    "y": -1.0003,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cep",
+    "x": -1.0233,
+    "y": -0.7761,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.5102,
+    "y": 0.1925,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.557,
+    "y": -0.0046,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.5445,
+    "y": -0.0451,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.8093,
+    "y": 0.2495,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.7531,
+    "y": 0.1139,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.4872,
+    "y": -0.1239,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.6611,
+    "y": 0.2213,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.788,
+    "y": 0.1416,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.6113,
+    "y": 0.0415,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.4908,
+    "y": -0.0569,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.5818,
+    "y": 0.2919,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.9287,
+    "y": 0.1228,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.5238,
+    "y": -0.1407,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.6697,
+    "y": 0.1437,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cet",
+    "x": 1.5755,
+    "y": -0.1177,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cha",
+    "x": 0.1778,
+    "y": 0.9925,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cha",
+    "x": 0.1693,
+    "y": 0.9987,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cha",
+    "x": -0.0123,
+    "y": 1.0184,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cha",
+    "x": 0.0444,
+    "y": 1.0315,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cha",
+    "x": 0.0599,
+    "y": 1.0108,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cir",
+    "x": -0.3262,
+    "y": 0.7834,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cir",
+    "x": -0.3317,
+    "y": 0.7897,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cir",
+    "x": -0.2264,
+    "y": 0.8571,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7543,
+    "y": 0.3852,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7999,
+    "y": 0.217,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7926,
+    "y": 0.3343,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.8354,
+    "y": 0.1673,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.6908,
+    "y": 0.4036,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.86,
+    "y": 0.2669,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.8092,
+    "y": 0.4476,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.8542,
+    "y": 0.3239,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7564,
+    "y": 0.3992,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.816,
+    "y": 0.2366,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7568,
+    "y": 0.4467,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7453,
+    "y": 0.3643,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.8456,
+    "y": 0.4139,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.9024,
+    "y": 0.249,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.727,
+    "y": 0.3694,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.8466,
+    "y": 0.2319,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMa",
+    "x": 0.7712,
+    "y": 0.3295,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMi",
+    "x": 0.7219,
+    "y": -0.0728,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CMi",
+    "x": 0.752,
+    "y": -0.1153,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.6148,
+    "y": -0.1278,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.5483,
+    "y": -0.2832,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.5221,
+    "y": -0.2518,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.4961,
+    "y": -0.1648,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.4859,
+    "y": -0.3963,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.5176,
+    "y": -0.2972,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cnc",
+    "x": 0.5572,
+    "y": -0.2509,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.8625,
+    "y": 0.4836,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.9234,
+    "y": 0.4861,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.7898,
+    "y": 0.5825,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.874,
+    "y": 0.4901,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.8178,
+    "y": 0.459,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.8183,
+    "y": 0.4817,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Col",
+    "x": 0.9153,
+    "y": 0.4675,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Com",
+    "x": -0.068,
+    "y": -0.3897,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Com",
+    "x": -0.1819,
+    "y": -0.3844,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Com",
+    "x": -0.1876,
+    "y": -0.2432,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9345,
+    "y": 0.5731,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9785,
+    "y": 0.5078,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9969,
+    "y": 0.5072,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9953,
+    "y": 0.5183,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9315,
+    "y": 0.5238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9811,
+    "y": 0.5371,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrA",
+    "x": -0.9644,
+    "y": 0.5523,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.6052,
+    "y": -0.3709,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.588,
+    "y": -0.3599,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.5211,
+    "y": -0.401,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.5475,
+    "y": -0.3687,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.5696,
+    "y": -0.363,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.5246,
+    "y": -0.4313,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CrB",
+    "x": -0.602,
+    "y": -0.411,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.1609,
+    "y": 0.2537,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.1101,
+    "y": 0.2052,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.0107,
+    "y": 0.2379,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.1263,
+    "y": 0.3158,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.0641,
+    "y": 0.1363,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.0407,
+    "y": 0.2545,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.0941,
+    "y": 0.2453,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crt",
+    "x": 0.097,
+    "y": 0.151,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cru",
+    "x": -0.0771,
+    "y": 0.7941,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cru",
+    "x": -0.0392,
+    "y": 0.835,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cru",
+    "x": -0.025,
+    "y": 0.7827,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cru",
+    "x": -0.0535,
+    "y": 0.7628,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crv",
+    "x": -0.0424,
+    "y": 0.2433,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crv",
+    "x": -0.0217,
+    "y": 0.3417,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crv",
+    "x": -0.0804,
+    "y": 0.2292,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crv",
+    "x": -0.0265,
+    "y": 0.313,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Crv",
+    "x": -0.0895,
+    "y": 0.3236,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CVn",
+    "x": -0.0752,
+    "y": -0.5635,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "CVn",
+    "x": -0.1293,
+    "y": -0.5237,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1396,
+    "y": -0.3855,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1355,
+    "y": -0.481,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1442,
+    "y": -0.4521,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -0.8108,
+    "y": -0.7166,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1043,
+    "y": -0.6143,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.2675,
+    "y": -0.4662,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -0.8598,
+    "y": -0.6962,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1339,
+    "y": -0.5491,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -0.8959,
+    "y": -0.6772,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.1427,
+    "y": -0.4151,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -0.9868,
+    "y": -0.6124,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Cyg",
+    "x": -1.3747,
+    "y": -0.4161,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Del",
+    "x": -1.4194,
+    "y": -0.2238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Del",
+    "x": -1.4026,
+    "y": -0.2027,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Del",
+    "x": -1.4016,
+    "y": -0.2209,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Del",
+    "x": -1.4163,
+    "y": -0.2093,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Del",
+    "x": -1.4048,
+    "y": -0.1572,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dor",
+    "x": 0.51,
+    "y": 0.866,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dor",
+    "x": 0.8004,
+    "y": 0.7374,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dor",
+    "x": 0.5798,
+    "y": 0.8277,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dor",
+    "x": 0.891,
+    "y": 0.6931,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.5498,
+    "y": -0.8884,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": 0.0341,
+    "y": -0.9076,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.4018,
+    "y": -0.7805,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.42,
+    "y": -0.8658,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.6103,
+    "y": -0.7599,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.6848,
+    "y": -0.6931,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.407,
+    "y": -0.8161,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.4321,
+    "y": -0.9532,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.3371,
+    "y": -0.7854,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.4166,
+    "y": -0.9305,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.5944,
+    "y": -0.7391,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.5369,
+    "y": -0.9183,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.0392,
+    "y": -0.9129,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.6253,
+    "y": -0.7033,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Dra",
+    "x": -0.1766,
+    "y": -0.8501,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Equ",
+    "x": -1.5226,
+    "y": -0.1392,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Equ",
+    "x": -1.5391,
+    "y": -0.0731,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Equ",
+    "x": -1.5553,
+    "y": -0.0948,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Equ",
+    "x": -1.5108,
+    "y": -0.1409,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1422,
+    "y": 0.5145,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.4478,
+    "y": 0.2909,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.2934,
+    "y": 0.0952,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.285,
+    "y": 0.3215,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3648,
+    "y": 0.1358,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.0656,
+    "y": 0.7643,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3307,
+    "y": 0.2995,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1568,
+    "y": 0.4958,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3109,
+    "y": 0.1877,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.4963,
+    "y": 0.1238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1346,
+    "y": 0.5858,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.102,
+    "y": 0.4206,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.12,
+    "y": 0.6934,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.4431,
+    "y": 0.1227,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.0978,
+    "y": 0.4668,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1824,
+    "y": 0.0759,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1712,
+    "y": 0.6453,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3941,
+    "y": 0.1316,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.2309,
+    "y": 0.0467,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.2687,
+    "y": 0.5439,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.4805,
+    "y": 0.2575,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.2055,
+    "y": 0.0453,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1574,
+    "y": 0.6946,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.2224,
+    "y": 0.5498,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1148,
+    "y": 0.4639,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.1415,
+    "y": 0.0708,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3674,
+    "y": 0.3012,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Eri",
+    "x": 1.3978,
+    "y": 0.3267,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "For",
+    "x": 1.2204,
+    "y": 0.439,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "For",
+    "x": 1.3454,
+    "y": 0.4453,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "For",
+    "x": 1.4539,
+    "y": 0.4227,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "For",
+    "x": 1.3249,
+    "y": 0.3994,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.7344,
+    "y": -0.3042,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.8818,
+    "y": -0.3115,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.7821,
+    "y": -0.2849,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.903,
+    "y": -0.3114,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.718,
+    "y": -0.4163,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.8677,
+    "y": -0.2276,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.8144,
+    "y": -0.3472,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.9272,
+    "y": -0.3217,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.7401,
+    "y": -0.466,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.8576,
+    "y": -0.1792,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.6436,
+    "y": -0.3864,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.651,
+    "y": -0.4384,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gem",
+    "x": 0.7586,
+    "y": -0.2295,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.3842,
+    "y": 0.5112,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.3299,
+    "y": 0.6348,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.2492,
+    "y": 0.691,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.2402,
+    "y": 0.709,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.2572,
+    "y": 0.6358,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.3652,
+    "y": 0.5913,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.4463,
+    "y": 0.5916,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.3797,
+    "y": 0.5398,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.4203,
+    "y": 0.6138,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Gru",
+    "x": -1.3721,
+    "y": 0.5634,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8533,
+    "y": -0.1999,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7424,
+    "y": -0.4255,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.6028,
+    "y": -0.5775,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8775,
+    "y": -0.3823,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.5294,
+    "y": -0.6098,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7109,
+    "y": -0.2975,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8915,
+    "y": -0.4156,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8961,
+    "y": -0.4029,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.9239,
+    "y": -0.3963,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.6484,
+    "y": -0.5317,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.9735,
+    "y": -0.2883,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7384,
+    "y": -0.5038,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8132,
+    "y": -0.3432,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.697,
+    "y": -0.2655,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7561,
+    "y": -0.5083,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7115,
+    "y": -0.6236,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.542,
+    "y": -0.6275,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.6662,
+    "y": -0.2366,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.7207,
+    "y": -0.1949,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.6916,
+    "y": -0.4345,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8312,
+    "y": -0.5097,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Her",
+    "x": -0.8468,
+    "y": -0.3605,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 0.8659,
+    "y": 0.7947,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 1.0266,
+    "y": 0.5757,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 1.0834,
+    "y": 0.6845,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 1.0139,
+    "y": 0.7313,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 0.7754,
+    "y": 0.8465,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hor",
+    "x": 1.0599,
+    "y": 0.7063,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.1389,
+    "y": 0.3765,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.348,
+    "y": 0.2062,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": -0.2057,
+    "y": 0.3205,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.2986,
+    "y": 0.1717,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.3892,
+    "y": 0.0159,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.1896,
+    "y": 0.2248,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.0171,
+    "y": 0.4653,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": -0.4306,
+    "y": 0.3855,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.4197,
+    "y": 0.1205,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.5107,
+    "y": -0.0828,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.2524,
+    "y": 0.2336,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.5583,
+    "y": -0.0465,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.0662,
+    "y": 0.4379,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": -0.3223,
+    "y": 0.3682,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.5342,
+    "y": -0.0893,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.56,
+    "y": -0.0794,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.4598,
+    "y": -0.0322,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hya",
+    "x": 0.5459,
+    "y": -0.0473,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hyi",
+    "x": 0.4663,
+    "y": 0.963,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hyi",
+    "x": 0.6964,
+    "y": 0.8954,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hyi",
+    "x": 0.9255,
+    "y": 0.8167,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Hyi",
+    "x": 0.5447,
+    "y": 0.9962,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ind",
+    "x": -1.0742,
+    "y": 0.7368,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ind",
+    "x": -1.0369,
+    "y": 0.7176,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ind",
+    "x": -1.0436,
+    "y": 0.7587,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ind",
+    "x": -0.8906,
+    "y": 0.7792,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ind",
+    "x": -1.0645,
+    "y": 0.64,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.2378,
+    "y": -0.678,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.4298,
+    "y": -0.5162,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.2917,
+    "y": -0.6304,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.3946,
+    "y": -0.5421,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.1815,
+    "y": -0.7024,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.3745,
+    "y": -0.5864,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.2866,
+    "y": -0.6453,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lac",
+    "x": -1.2411,
+    "y": -0.6678,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.3485,
+    "y": -0.3287,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.326,
+    "y": -0.3591,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.0989,
+    "y": -0.1464,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.1213,
+    "y": -0.2843,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.1075,
+    "y": -0.0839,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.2398,
+    "y": -0.1295,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.3029,
+    "y": -0.2326,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.2689,
+    "y": -0.3238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.3078,
+    "y": -0.139,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.064,
+    "y": 0.0115,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.0296,
+    "y": -0.2024,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.387,
+    "y": -0.3177,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.1236,
+    "y": -0.2142,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.3814,
+    "y": -0.1376,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.305,
+    "y": -0.1663,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Leo",
+    "x": 0.2653,
+    "y": -0.2749,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0902,
+    "y": 0.1831,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0345,
+    "y": 0.2875,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0366,
+    "y": 0.2472,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 0.973,
+    "y": 0.2891,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.1143,
+    "y": 0.165,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0102,
+    "y": 0.2058,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 0.9829,
+    "y": 0.3106,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0855,
+    "y": 0.3096,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.0968,
+    "y": 0.2249,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 0.9868,
+    "y": 0.1968,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lep",
+    "x": 1.1083,
+    "y": 0.1798,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.5417,
+    "y": 0.1305,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.4607,
+    "y": 0.2227,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.5837,
+    "y": 0.2054,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.51,
+    "y": 0.2742,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.6049,
+    "y": 0.2176,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.6287,
+    "y": 0.2321,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lib",
+    "x": -0.4738,
+    "y": 0.3492,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "LMi",
+    "x": 0.3431,
+    "y": -0.4984,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "LMi",
+    "x": 0.2161,
+    "y": -0.5025,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "LMi",
+    "x": 0.268,
+    "y": -0.4831,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "LMi",
+    "x": 0.1603,
+    "y": -0.4694,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.314,
+    "y": 0.6671,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4526,
+    "y": 0.5542,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.3891,
+    "y": 0.5866,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.578,
+    "y": 0.5037,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.5581,
+    "y": 0.4616,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4756,
+    "y": 0.4966,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4047,
+    "y": 0.6475,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4921,
+    "y": 0.415,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4327,
+    "y": 0.6067,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.3652,
+    "y": 0.7008,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.3326,
+    "y": 0.6413,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.292,
+    "y": 0.6243,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.4806,
+    "y": 0.561,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lup",
+    "x": -0.5535,
+    "y": 0.5248,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.473,
+    "y": -0.5873,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.3814,
+    "y": -0.4718,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.3778,
+    "y": -0.5037,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.3996,
+    "y": -0.5255,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.3976,
+    "y": -0.5691,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.5594,
+    "y": -0.7859,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyn",
+    "x": 0.5454,
+    "y": -0.6644,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -0.9112,
+    "y": -0.5298,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -0.9707,
+    "y": -0.505,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -0.9191,
+    "y": -0.5415,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -0.9932,
+    "y": -0.4581,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -1.0207,
+    "y": -0.4491,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Lyr",
+    "x": -0.941,
+    "y": -0.5143,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.2464,
+    "y": 1.0189,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.457,
+    "y": 0.9302,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.187,
+    "y": 1.016,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.3238,
+    "y": 0.9862,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.3215,
+    "y": 0.9687,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Men",
+    "x": 0.3864,
+    "y": 0.9707,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.3236,
+    "y": 0.4433,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.3653,
+    "y": 0.4422,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.2788,
+    "y": 0.4636,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.2905,
+    "y": 0.4556,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.1391,
+    "y": 0.5976,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mic",
+    "x": -1.2579,
+    "y": 0.5564,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.8665,
+    "y": -0.0336,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.7113,
+    "y": 0.1329,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.9544,
+    "y": 0.0873,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.9148,
+    "y": 0.0979,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.8004,
+    "y": 0.0069,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.903,
+    "y": -0.102,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mon",
+    "x": 0.9317,
+    "y": -0.0639,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": 0.0189,
+    "y": 0.8776,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": -0.0221,
+    "y": 0.8919,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": -0.0579,
+    "y": 0.8936,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": -0.0675,
+    "y": 0.9329,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": -0.0342,
+    "y": 0.9395,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Mus",
+    "x": -0.0447,
+    "y": 0.9054,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.4853,
+    "y": 0.6647,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.5473,
+    "y": 0.6434,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.5106,
+    "y": 0.6764,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.412,
+    "y": 0.7709,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.4587,
+    "y": 0.7323,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Nor",
+    "x": -0.5228,
+    "y": 0.6129,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oct",
+    "x": -0.4518,
+    "y": 0.9976,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oct",
+    "x": -0.0604,
+    "y": 1.0643,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oct",
+    "x": -0.3547,
+    "y": 1.0404,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.8304,
+    "y": 0.3454,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.7601,
+    "y": 0.1469,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.9518,
+    "y": -0.0636,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.7054,
+    "y": 0.0514,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.9656,
+    "y": -0.0377,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.7294,
+    "y": 0.2305,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.8378,
+    "y": 0.2183,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.8186,
+    "y": -0.1304,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.716,
+    "y": 0.2972,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.9136,
+    "y": -0.1746,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.8744,
+    "y": 0.1785,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.7158,
+    "y": 0.0653,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.9314,
+    "y": 0.113,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Oph",
+    "x": -0.7522,
+    "y": -0.0276,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1819,
+    "y": -0.1238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1818,
+    "y": -0.034,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 0.9828,
+    "y": -0.1342,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 0.9545,
+    "y": -0.2051,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.0918,
+    "y": -0.0884,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 0.9445,
+    "y": -0.1974,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 0.9678,
+    "y": -0.2809,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.053,
+    "y": 0.0271,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1883,
+    "y": -0.0969,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1522,
+    "y": -0.1878,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.0777,
+    "y": 0.0042,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.023,
+    "y": 0.1345,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.0659,
+    "y": 0.0167,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1176,
+    "y": 0.1141,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.0071,
+    "y": -0.1031,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.1868,
+    "y": -0.078,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ori",
+    "x": 1.057,
+    "y": -0.1382,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.7024,
+    "y": 0.8715,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.5911,
+    "y": 0.8158,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.4878,
+    "y": 0.9482,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.8756,
+    "y": 0.7582,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.6239,
+    "y": 0.8241,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.4392,
+    "y": 0.9315,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.4855,
+    "y": 0.8542,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.7792,
+    "y": 0.8617,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pav",
+    "x": -0.6544,
+    "y": 0.8712,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.4798,
+    "y": -0.4556,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.6768,
+    "y": -0.3872,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.983,
+    "y": -0.2108,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.8266,
+    "y": -0.4008,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.6802,
+    "y": -0.34,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.7659,
+    "y": -0.1692,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.5015,
+    "y": -0.3542,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.6876,
+    "y": -0.0863,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.6816,
+    "y": -0.3259,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.7579,
+    "y": -0.1506,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.6047,
+    "y": -0.1373,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.5619,
+    "y": -0.3501,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.7977,
+    "y": -0.2111,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Peg",
+    "x": -1.5986,
+    "y": -0.416,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.1274,
+    "y": -0.5891,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 0.9272,
+    "y": -0.6788,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 0.9632,
+    "y": -0.6454,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.2002,
+    "y": -0.6831,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.0862,
+    "y": -0.5794,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 0.9685,
+    "y": -0.7479,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 0.9902,
+    "y": -0.7183,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.1301,
+    "y": -0.6088,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.0917,
+    "y": -0.5459,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.139,
+    "y": -0.4904,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.2118,
+    "y": -0.4437,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.024,
+    "y": -0.7091,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.1918,
+    "y": -0.4383,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.0147,
+    "y": -0.6464,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.109,
+    "y": -0.6647,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 0.9403,
+    "y": -0.6543,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.1909,
+    "y": -0.5583,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.227,
+    "y": -0.5306,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.0183,
+    "y": -0.6726,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Per",
+    "x": 1.2676,
+    "y": -0.5237,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.1646,
+    "y": 0.7399,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.3735,
+    "y": 0.589,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.2577,
+    "y": 0.6627,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.2655,
+    "y": 0.6274,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.3565,
+    "y": 0.6327,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.495,
+    "y": 0.6203,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Phe",
+    "x": 1.5281,
+    "y": 0.5758,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pic",
+    "x": 0.6489,
+    "y": 0.7512,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pic",
+    "x": 0.8234,
+    "y": 0.6691,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pic",
+    "x": 0.721,
+    "y": 0.6878,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pic",
+    "x": 0.4751,
+    "y": 0.8212,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.5431,
+    "y": 0.4445,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.6302,
+    "y": 0.3731,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.6001,
+    "y": 0.4471,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.5554,
+    "y": 0.3829,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.5872,
+    "y": 0.4516,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.4209,
+    "y": 0.4536,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.4783,
+    "y": 0.4531,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "PsA",
+    "x": -1.6426,
+    "y": 0.4079,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.8122,
+    "y": -0.1098,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.7833,
+    "y": -0.1055,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.9911,
+    "y": -0.0955,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.7102,
+    "y": -0.2913,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6136,
+    "y": -0.4142,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.7419,
+    "y": -0.0855,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.8525,
+    "y": -0.1056,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 2.0491,
+    "y": -0.0248,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6909,
+    "y": -0.1274,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.7123,
+    "y": -0.0764,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6595,
+    "y": -0.0385,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6707,
+    "y": -0.3397,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6274,
+    "y": -0.3761,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 2.1164,
+    "y": -0.0457,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 2.0483,
+    "y": -0.0783,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 2.0915,
+    "y": -0.0175,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 1.6988,
+    "y": -0.2131,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Psc",
+    "x": 2.0793,
+    "y": -0.0888,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.5353,
+    "y": 0.5458,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.5889,
+    "y": 0.5888,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.6313,
+    "y": 0.7082,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.661,
+    "y": 0.5076,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.4737,
+    "y": 0.6406,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.6045,
+    "y": 0.6821,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.602,
+    "y": 0.3359,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.647,
+    "y": 0.3435,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pup",
+    "x": 0.7018,
+    "y": 0.5874,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pyx",
+    "x": 0.5353,
+    "y": 0.5458,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pyx",
+    "x": 0.4799,
+    "y": 0.3821,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pyx",
+    "x": 0.4755,
+    "y": 0.4839,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Pyx",
+    "x": 0.4764,
+    "y": 0.4557,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ret",
+    "x": 0.7564,
+    "y": 0.7894,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ret",
+    "x": 0.7442,
+    "y": 0.8147,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ret",
+    "x": 0.7257,
+    "y": 0.8238,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ret",
+    "x": 0.6944,
+    "y": 0.8551,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ret",
+    "x": 0.699,
+    "y": 0.8275,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.9486,
+    "y": 0.4044,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -2.0092,
+    "y": 0.4442,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.6073,
+    "y": 0.5171,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.656,
+    "y": 0.447,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.7903,
+    "y": 0.3878,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.7436,
+    "y": 0.4816,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Scl",
+    "x": -1.861,
+    "y": 0.3993,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6969,
+    "y": 0.4705,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.7859,
+    "y": 0.5474,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6795,
+    "y": 0.5879,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.671,
+    "y": 0.3534,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6116,
+    "y": 0.3605,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6511,
+    "y": 0.2744,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.7796,
+    "y": 0.5077,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.5935,
+    "y": 0.4024,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.7365,
+    "y": 0.5848,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.8181,
+    "y": 0.5069,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6884,
+    "y": 0.3648,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6284,
+    "y": 0.313,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.7841,
+    "y": 0.5331,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6963,
+    "y": 0.389,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6485,
+    "y": 0.5766,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sco",
+    "x": -0.6754,
+    "y": 0.5202,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sct",
+    "x": -1.1281,
+    "y": 0.0661,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sct",
+    "x": -1.0549,
+    "y": 0.2023,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sct",
+    "x": -1.0893,
+    "y": 0.1147,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -1.0582,
+    "y": 0.0403,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.6112,
+    "y": -0.2141,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.9304,
+    "y": 0.1789,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.6115,
+    "y": -0.2516,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.7054,
+    "y": 0.0514,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -1.1538,
+    "y": -0.0585,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.637,
+    "y": 0.0478,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.9123,
+    "y": 0.2138,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.9864,
+    "y": 0.1359,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.5891,
+    "y": -0.1466,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.8744,
+    "y": 0.1785,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.6397,
+    "y": -0.0623,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.6384,
+    "y": -0.2175,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Ser",
+    "x": -0.62,
+    "y": -0.0894,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sex",
+    "x": 0.3113,
+    "y": 0.0052,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sex",
+    "x": 0.3515,
+    "y": 0.1128,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sex",
+    "x": 0.2492,
+    "y": 0.0089,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sge",
+    "x": -1.2359,
+    "y": -0.2424,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sge",
+    "x": -1.272,
+    "y": -0.2701,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sge",
+    "x": -1.2472,
+    "y": -0.257,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sge",
+    "x": -1.2306,
+    "y": -0.2498,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.1011,
+    "y": 0.2923,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.0817,
+    "y": 0.3816,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9855,
+    "y": 0.2916,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.0535,
+    "y": 0.4114,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9449,
+    "y": 0.6081,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.062,
+    "y": 0.363,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.998,
+    "y": 0.5538,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.8855,
+    "y": 0.5032,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9501,
+    "y": 0.4107,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.2169,
+    "y": 0.363,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.0526,
+    "y": 0.5702,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9481,
+    "y": 0.6037,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.908,
+    "y": 0.4187,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.1158,
+    "y": 0.301,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.1821,
+    "y": 0.2475,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.1333,
+    "y": 0.2911,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.1416,
+    "y": 0.4835,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9219,
+    "y": 0.4717,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -1.0326,
+    "y": 0.3724,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Sgr",
+    "x": -0.9978,
+    "y": 0.3511,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2161,
+    "y": -0.2486,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.1909,
+    "y": -0.3085,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.1425,
+    "y": -0.3176,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2249,
+    "y": -0.2433,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.3191,
+    "y": -0.0834,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2054,
+    "y": -0.1739,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 0.9908,
+    "y": -0.3943,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2465,
+    "y": -0.3056,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2197,
+    "y": -0.1413,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2176,
+    "y": -0.2203,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.201,
+    "y": -0.2659,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.4177,
+    "y": -0.1256,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2785,
+    "y": -0.1237,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2426,
+    "y": -0.217,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.2769,
+    "y": -0.3332,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.3975,
+    "y": -0.0056,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.0077,
+    "y": -0.2928,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.1951,
+    "y": -0.2291,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.4091,
+    "y": -0.1354,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tau",
+    "x": 1.3077,
+    "y": -0.1736,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tel",
+    "x": -0.7787,
+    "y": 0.6229,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tel",
+    "x": -0.7778,
+    "y": 0.6626,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tel",
+    "x": -0.8116,
+    "y": 0.6231,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tel",
+    "x": -0.8048,
+    "y": 0.7297,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tel",
+    "x": -0.9125,
+    "y": 0.7105,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "TrA",
+    "x": -0.3483,
+    "y": 0.9042,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "TrA",
+    "x": -0.2433,
+    "y": 0.9002,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "TrA",
+    "x": -0.3435,
+    "y": 0.8389,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tri",
+    "x": 1.4089,
+    "y": -0.4797,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tri",
+    "x": 1.5164,
+    "y": -0.4074,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tri",
+    "x": 1.4051,
+    "y": -0.4645,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -0.9835,
+    "y": 0.8642,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -0.8741,
+    "y": 0.857,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -1.1129,
+    "y": 0.8333,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -0.9854,
+    "y": 0.801,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -1.0341,
+    "y": 0.856,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Tuc",
+    "x": -1.1339,
+    "y": 0.7765,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": -0.0265,
+    "y": -0.7618,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2173,
+    "y": -0.5654,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": -0.0951,
+    "y": -0.7487,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.0285,
+    "y": -0.6462,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2816,
+    "y": -0.6955,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2341,
+    "y": -0.7253,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.1078,
+    "y": -0.6042,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2119,
+    "y": -0.7863,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.1015,
+    "y": -0.7539,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.1008,
+    "y": -0.4545,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.3302,
+    "y": -0.8065,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": -0.151,
+    "y": -0.7359,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.3635,
+    "y": -0.6383,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2192,
+    "y": -0.8345,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2197,
+    "y": -0.8823,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.2249,
+    "y": -0.5837,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.0862,
+    "y": -0.8189,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.3676,
+    "y": -0.6496,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.0706,
+    "y": -0.5371,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": 0.0114,
+    "y": -0.7207,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMa",
+    "x": -0.2143,
+    "y": -0.6657,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.1623,
+    "y": -0.9621,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.0755,
+    "y": -1.0943,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.2146,
+    "y": -0.9361,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": 0.0285,
+    "y": -1.1211,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.223,
+    "y": -0.9798,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.1458,
+    "y": -1.0473,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "UMi",
+    "x": -0.1691,
+    "y": -1.002,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.3735,
+    "y": 0.5905,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.3363,
+    "y": 0.5519,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.4737,
+    "y": 0.6406,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.2324,
+    "y": 0.5735,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.3529,
+    "y": 0.7332,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.2231,
+    "y": 0.7315,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.1457,
+    "y": 0.6671,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.1677,
+    "y": 0.6519,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vel",
+    "x": 0.2835,
+    "y": 0.737,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.1936,
+    "y": 0.0771,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.1543,
+    "y": -0.0473,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.3378,
+    "y": -0.0215,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.4616,
+    "y": -0.0264,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": 0.0259,
+    "y": -0.0246,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.3763,
+    "y": 0.0835,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": 0.0391,
+    "y": -0.0909,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.4513,
+    "y": 0.0788,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.1149,
+    "y": -0.1424,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.1157,
+    "y": 0.0202,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.3647,
+    "y": 0.1429,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.2333,
+    "y": 0.1552,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.0553,
+    "y": 0.0093,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.0143,
+    "y": -0.1215,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.1703,
+    "y": -0.1524,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vir",
+    "x": -0.263,
+    "y": 0.0083,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.2873,
+    "y": 0.8707,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.266,
+    "y": 0.9448,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.236,
+    "y": 0.8737,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.2845,
+    "y": 0.8995,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.356,
+    "y": 0.8918,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vol",
+    "x": 0.3307,
+    "y": 0.921,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vul",
+    "x": -1.3536,
+    "y": -0.3738,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vul",
+    "x": -1.1594,
+    "y": -0.3408,
+    "grade": 1,
+    "name": ""
+  },
+  {
+    "constel_id": "Vul",
+    "x": -1.2277,
+    "y": -0.3329,
+    "grade": 1,
+    "name": ""
+  }
+]

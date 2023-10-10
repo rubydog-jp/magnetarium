@@ -1,0 +1,4 @@
+enum Pole {
+  s,
+  n,
+}

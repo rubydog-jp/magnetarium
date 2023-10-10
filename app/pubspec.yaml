@@ -1,0 +1,34 @@
+name: app
+description: An adventure game with the space magnet
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod:
+  flutter_hooks:
+  flame:
+  vector_math:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+    - assets/json/
+  fonts:
+    - family: k12x8
+      fonts:
+        - asset: assets/fonts/k12x8.ttf
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSansJP-Regular.otf

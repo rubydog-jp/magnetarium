@@ -1,3 +1,9 @@
+<!-- 変数 -->
+
+[actors]: https://github.com/rubydog-jp/magnetarium/blob/main/docs/assets/images/actors.png?raw=true
+
+{% capture myStr %}longlonglong{% endcapture %}
+
 # Docs
 
 開発者向けドキュメント
@@ -16,6 +22,8 @@
 | メテオ               |          |
 | プレイヤーマグネット |          |
 | ホール               |          |
+
+![image][actors]
 
 ## プレイヤー
 

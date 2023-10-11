@@ -1,0 +1,354 @@
+[
+  {
+    "constel_id": "And",
+    "jp": "アンドロメダ"
+  },
+  {
+    "constel_id": "Ant",
+    "jp": "ポンプ"
+  },
+  {
+    "constel_id": "Aps",
+    "jp": "ふうちょう"
+  },
+  {
+    "constel_id": "Aql",
+    "jp": "わし"
+  },
+  {
+    "constel_id": "Aqr",
+    "jp": "みずがめ"
+  },
+  {
+    "constel_id": "Ara",
+    "jp": "さいだん"
+  },
+  {
+    "constel_id": "Ari",
+    "jp": "おひつじ"
+  },
+  {
+    "constel_id": "Aur",
+    "jp": "ぎょしゃ"
+  },
+  {
+    "constel_id": "Boo",
+    "jp": "うしかい"
+  },
+  {
+    "constel_id": "Cae",
+    "jp": "ちょうこくぐ"
+  },
+  {
+    "constel_id": "Cam",
+    "jp": "きりん"
+  },
+  {
+    "constel_id": "Cap",
+    "jp": "やぎ"
+  },
+  {
+    "constel_id": "Car",
+    "jp": "りゅうこつ"
+  },
+  {
+    "constel_id": "Cas",
+    "jp": "カシオペヤ"
+  },
+  {
+    "constel_id": "Cen",
+    "jp": "ケンタウルス"
+  },
+  {
+    "constel_id": "Cep",
+    "jp": "ケフェウス"
+  },
+  {
+    "constel_id": "Cet",
+    "jp": "くじら"
+  },
+  {
+    "constel_id": "Cha",
+    "jp": "カメレオン"
+  },
+  {
+    "constel_id": "Cir",
+    "jp": "コンパス"
+  },
+  {
+    "constel_id": "CMa",
+    "jp": "おおいぬ"
+  },
+  {
+    "constel_id": "CMi",
+    "jp": "こいぬ"
+  },
+  {
+    "constel_id": "Cnc",
+    "jp": "かに"
+  },
+  {
+    "constel_id": "Col",
+    "jp": "はと"
+  },
+  {
+    "constel_id": "Com",
+    "jp": "かみのけ"
+  },
+  {
+    "constel_id": "CrA",
+    "jp": "みなみのかんむり"
+  },
+  {
+    "constel_id": "CrB",
+    "jp": "かんむり"
+  },
+  {
+    "constel_id": "Crt",
+    "jp": "コップ"
+  },
+  {
+    "constel_id": "Cru",
+    "jp": "みなみじゅうじ"
+  },
+  {
+    "constel_id": "Crv",
+    "jp": "からす"
+  },
+  {
+    "constel_id": "CVn",
+    "jp": "りょうけん"
+  },
+  {
+    "constel_id": "Cyg",
+    "jp": "はくちょう"
+  },
+  {
+    "constel_id": "Del",
+    "jp": "いるか"
+  },
+  {
+    "constel_id": "Dor",
+    "jp": "かじき"
+  },
+  {
+    "constel_id": "Dra",
+    "jp": "りゅう"
+  },
+  {
+    "constel_id": "Equ",
+    "jp": "こうま"
+  },
+  {
+    "constel_id": "Eri",
+    "jp": "エリダヌス"
+  },
+  {
+    "constel_id": "For",
+    "jp": "ろ"
+  },
+  {
+    "constel_id": "Gem",
+    "jp": "ふたご"
+  },
+  {
+    "constel_id": "Gru",
+    "jp": "つる"
+  },
+  {
+    "constel_id": "Her",
+    "jp": "ヘルクレス"
+  },
+  {
+    "constel_id": "Hor",
+    "jp": "とけい"
+  },
+  {
+    "constel_id": "Hya",
+    "jp": "うみへび"
+  },
+  {
+    "constel_id": "Hyi",
+    "jp": "みずへび"
+  },
+  {
+    "constel_id": "Ind",
+    "jp": "インディアン"
+  },
+  {
+    "constel_id": "Lac",
+    "jp": "とかげ"
+  },
+  {
+    "constel_id": "Leo",
+    "jp": "しし"
+  },
+  {
+    "constel_id": "Lep",
+    "jp": "うさぎ"
+  },
+  {
+    "constel_id": "Lib",
+    "jp": "てんびん"
+  },
+  {
+    "constel_id": "LMi",
+    "jp": "こじし"
+  },
+  {
+    "constel_id": "Lup",
+    "jp": "おおかみ"
+  },
+  {
+    "constel_id": "Lyn",
+    "jp": "やまねこ"
+  },
+  {
+    "constel_id": "Lyr",
+    "jp": "こと"
+  },
+  {
+    "constel_id": "Men",
+    "jp": "テーブルさん"
+  },
+  {
+    "constel_id": "Mic",
+    "jp": "けんびきょう"
+  },
+  {
+    "constel_id": "Mon",
+    "jp": "いっかくじゅう"
+  },
+  {
+    "constel_id": "Mus",
+    "jp": "はえ"
+  },
+  {
+    "constel_id": "Nor",
+    "jp": "じょうぎ"
+  },
+  {
+    "constel_id": "Oct",
+    "jp": "はちぶんぎ"
+  },
+  {
+    "constel_id": "Oph",
+    "jp": "へびつかい"
+  },
+  {
+    "constel_id": "Ori",
+    "jp": "オリオン"
+  },
+  {
+    "constel_id": "Pav",
+    "jp": "くじゃく"
+  },
+  {
+    "constel_id": "Peg",
+    "jp": "ペガスス"
+  },
+  {
+    "constel_id": "Per",
+    "jp": "ペルセウス"
+  },
+  {
+    "constel_id": "Phe",
+    "jp": "ほうおう"
+  },
+  {
+    "constel_id": "Pic",
+    "jp": "がか"
+  },
+  {
+    "constel_id": "PsA",
+    "jp": "みなみのうお"
+  },
+  {
+    "constel_id": "Psc",
+    "jp": "うお"
+  },
+  {
+    "constel_id": "Pup",
+    "jp": "とも"
+  },
+  {
+    "constel_id": "Pyx",
+    "jp": "らしんばん"
+  },
+  {
+    "constel_id": "Ret",
+    "jp": "レチクル"
+  },
+  {
+    "constel_id": "Scl",
+    "jp": "ちょうこくしつ"
+  },
+  {
+    "constel_id": "Sco",
+    "jp": "さそり"
+  },
+  {
+    "constel_id": "Sct",
+    "jp": "たて"
+  },
+  {
+    "constel_id": "Ser",
+    "jp": "へび"
+  },
+  {
+    "constel_id": "Sex",
+    "jp": "ろくぶんぎ"
+  },
+  {
+    "constel_id": "Sge",
+    "jp": "や"
+  },
+  {
+    "constel_id": "Sgr",
+    "jp": "いて"
+  },
+  {
+    "constel_id": "Tau",
+    "jp": "おうし"
+  },
+  {
+    "constel_id": "Tel",
+    "jp": "ぼうえんきょう"
+  },
+  {
+    "constel_id": "TrA",
+    "jp": "みなみのさんかく"
+  },
+  {
+    "constel_id": "Tri",
+    "jp": "さんかく"
+  },
+  {
+    "constel_id": "Tuc",
+    "jp": "きょしちょう"
+  },
+  {
+    "constel_id": "UMa",
+    "jp": "おおぐま"
+  },
+  {
+    "constel_id": "UMi",
+    "jp": "こぐま"
+  },
+  {
+    "constel_id": "Vel",
+    "jp": "ほ"
+  },
+  {
+    "constel_id": "Vir",
+    "jp": "おとめ"
+  },
+  {
+    "constel_id": "Vol",
+    "jp": "とびうお"
+  },
+  {
+    "constel_id": "Vul",
+    "jp": "こぎつね"
+  }
+]

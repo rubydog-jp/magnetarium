@@ -10,7 +10,7 @@ import 'package:app/others/player.dart';
 
 class MyGame extends FlameGame with SingleGameInstance, PanDetector {
   MyGame({
-    required this.notifyUpdate,
+    required this.onUpdate,
   }) : super();
 
   final player = Player();
@@ -20,7 +20,7 @@ class MyGame extends FlameGame with SingleGameInstance, PanDetector {
     ExampleHole(),
   ];
 
-  void Function(MyGame game) notifyUpdate;
+  void Function(MyGame game) onUpdate;
 
   Iterable<SpaceMagnet> get magnets =>
       holes
@@ -59,7 +59,8 @@ class MyGame extends FlameGame with SingleGameInstance, PanDetector {
       magnet.position += movableVerocity;
       magnet.verocity = Vector2.zero();
     }
-    notifyUpdate(this);
+    // notify
+    onUpdate(this);
   }
 
   @override

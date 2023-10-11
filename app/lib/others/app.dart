@@ -1,3 +1,4 @@
+import 'package:app/others/config.dart';
 import 'package:app/others/pole.dart';
 import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
@@ -9,12 +10,12 @@ final mapPosProvider = Provider((ref) {
   final playerPosition = ref.watch(playerPosProvider);
   return (
     playerPosition.x.round(),
-    playerPosition.x.round(),
+    playerPosition.y.round(),
   );
 });
 final playerPoleProvider = StateProvider((ref) => Pole.n);
 
-class UILayer extends ConsumerWidget {
+class UILayer extends StatelessWidget {
   const UILayer({
     super.key,
     required this.game,
@@ -23,32 +24,77 @@ class UILayer extends ConsumerWidget {
   final MyGame game;
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final mapPos = ref.watch(mapPosProvider);
-    final playerPole = ref.watch(playerPoleProvider);
-    return Stack(
-      children: [
-        Align(
-          alignment: Alignment.topRight,
-          child: SizedBox(
-            width: 50,
-            height: 100,
-            child: Container(
-              color: Colors.amber,
-              child: Text(mapPos.$1.toString()),
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.all(10),
+      child: Stack(
+        children: [
+          const Align(
+            alignment: Alignment.topRight,
+            child: MiniMap(),
+          ),
+          Align(
+            alignment: Alignment.bottomCenter,
+            child: PoleButton(
+              onPressed: game.player.togglePole,
             ),
           ),
-        ),
-        Align(
-          alignment: Alignment.bottomCenter,
-          child: ElevatedButton(
-            onPressed: () {
-              game.player.togglePole();
-            },
-            child: Text(playerPole.name),
+        ],
+      ),
+    );
+  }
+}
+
+class PoleButton extends ConsumerWidget {
+  const PoleButton({
+    super.key,
+    required this.onPressed,
+  });
+
+  final VoidCallback onPressed;
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final pole = ref.watch(playerPoleProvider);
+    final imagePath = switch (pole) {
+      Pole.s => 'images/button-pole-s.png',
+      Pole.n => 'images/button-pole-n.png',
+    };
+    return SizedBox(
+      width: 100,
+      height: 50,
+      child: TextButton(
+        onPressed: onPressed,
+        child: Image.asset(imagePath),
+      ),
+    );
+  }
+}
+
+class MiniMap extends ConsumerWidget {
+  const MiniMap({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final mapPos = ref.watch(mapPosProvider);
+    final alignX = mapPos.$1 / (2.1 * spaceScale);
+    final alignY = mapPos.$2 / (1.1 * spaceScale);
+    return SizedBox(
+      width: 120,
+      height: 60,
+      child: Stack(
+        children: [
+          Image.asset('images/mini-map.png'),
+          Align(
+            alignment: Alignment(alignX, alignY),
+            child: SizedBox(
+              width: 10,
+              height: 10,
+              child: Image.asset('images/my-location.png'),
+            ),
           ),
-        ),
-      ],
+        ],
+      ),
     );
   }
 }
@@ -60,7 +106,8 @@ class GameView extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return GameWidget(
       game: MyGame(
-        notifyUpdate: (game) {
+        onUpdate: (game) {
+          // MEMO: need new instance of Vector2
           final playerPosition = Vector2(
             game.player.position.x,
             game.player.position.y,

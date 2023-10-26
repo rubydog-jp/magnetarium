@@ -57,6 +57,15 @@ const config = {
         sidebarPath: require.resolve("./tab_join/sidebars.js"),
       },
     ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "tab_support",
+        path: "tab_support",
+        routeBasePath: "support",
+        sidebarPath: require.resolve("./tab_support/sidebars.js"),
+      },
+    ],
   ],
 
   themeConfig:
@@ -87,6 +96,12 @@ const config = {
             to: "/join/overview",
             position: "left",
             activeBaseRegex: "/join/",
+          },
+          {
+            label: "サポート",
+            to: "/support/contact",
+            position: "left",
+            activeBaseRegex: "/support/",
           },
           {
             href: "https://github.com/rubydog-jp/magnetarium",

@@ -1,8 +1,8 @@
 import 'package:app/others/pole.dart';
 import 'package:app/others/space_magnet.dart';
 
-class ExampleMeteo extends SpaceMagnet {
-  ExampleMeteo() : super();
+class ExampleMeteor extends SpaceMagnet {
+  ExampleMeteor() : super();
 
   @override
   String name = 'EXメテオ';
@@ -19,6 +19,6 @@ class ExampleMeteo extends SpaceMagnet {
   @override
   Future<void> onLoad() async {
     super.onLoad();
-    sprite = await game.loadSprite('item-example.png');
+    sprite = await game.loadSprite('meteor.png');
   }
 }

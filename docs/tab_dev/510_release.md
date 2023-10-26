@@ -1,3 +1,8 @@
+---
+sidebar_position: 510
+title: リリース手順
+---
+
 ```
 # move to dir
 cd app

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rubydog.github.io/magnetarium/news</id>
+    <title>マグネタリウム Blog</title>
+    <updated>2023-10-26T08:49:48.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rubydog.github.io/magnetarium/news"/>
+    <subtitle>マグネタリウム Blog</subtitle>
+    <icon>https://rubydog.github.io/magnetarium/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[プロジェクト開始]]></title>
+        <id>https://rubydog.github.io/magnetarium/news/start</id>
+        <link href="https://rubydog.github.io/magnetarium/news/start"/>
+        <updated>2023-10-26T08:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Magnetarium プロジェクトを開始しました]]></summary>
+        <content type="html"><![CDATA[<p>Magnetarium プロジェクトを開始しました</p>]]></content>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>

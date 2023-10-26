@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[339],{846:e=>{e.exports=JSON.parse('{"permalink":"/magnetarium/news","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"news"}')}}]);

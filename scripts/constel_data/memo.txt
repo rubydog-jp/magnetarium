@@ -1,2 +1,0 @@
-- input内に `raw-constel-lines.txt` が不足
-- 再配布できないためマスターをルビーDogが所持
